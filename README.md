@@ -1,1 +1,1 @@
-this is made for learning purposes only
+this is made for learning and implementing the knowledge only
